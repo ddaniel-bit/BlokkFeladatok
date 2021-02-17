@@ -1,0 +1,11 @@
+p {
+    padding: 4mm;
+    border: 2px solid blue;
+}
+span {
+    padding: 5px;
+    margin: 10px;  
+    background-color: orange;
+    border-radius: 10px; /*Szerintem ennek itt a helye.*/
+    float: left;
+}
